@@ -1,2 +1,3 @@
 consol.log("Hi every one");
-console.log(" Hello 3rd line");
+consol.log("Hi everybody");
+console.log("Hi third line ");
