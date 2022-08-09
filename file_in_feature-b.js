@@ -1,1 +1,1 @@
-consol.log("Hi every body");
+consol.log("Hi everybody");
