@@ -1,0 +1,3 @@
+Adding some contents to file_in_feature-b.txt
+:wq
+
